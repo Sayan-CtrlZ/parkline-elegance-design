@@ -1,58 +1,19 @@
-# Welcome to your Lovable project
 
-## Project info
+# Parkline Elegance Design
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+## Project Overview
 
-## How can I edit this code?
+Parkline Elegance Design is a modern web application designed to showcase the unique features, experiences, and signature offerings of Parkline Elegance. The project provides an engaging and responsive user interface for visitors to explore information about the venue, view signature dishes, make reservations, and read testimonials. The application is built with a focus on performance, accessibility, and a seamless user experience.
 
-There are several ways of editing your application.
+## Features
 
-**Use Lovable**
+- Responsive landing page with sections for About, Experience, Location, Menu Preview, and Testimonials
+- Interactive reservation system
+- Signature dishes and menu highlights
+- Modern navigation and sticky reserve button
+- Clean, professional UI with reusable components
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
+## Technologies Used
 
 - Vite
 - TypeScript
@@ -60,14 +21,38 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
+## Getting Started
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+To run this project locally, ensure you have Node.js and npm installed. Then follow these steps:
 
-## Can I connect a custom domain to my Lovable project?
+```sh
+# Clone the repository
+git clone <YOUR_GIT_URL>
 
-Yes, you can!
+# Navigate to the project directory
+cd <YOUR_PROJECT_NAME>
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+# Install dependencies
+npm install
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+# Start the development server
+npm run dev
+```
+
+## Editing and Contributing
+
+You can edit the codebase using your preferred IDE or directly on GitHub. Contributions are welcome. Please follow standard pull request and code review practices.
+
+## Deployment
+
+To deploy the project, use your preferred static hosting provider. Build the optimized production version with:
+
+```sh
+npm run build
+```
+
+Then follow your hosting provider's instructions to publish the contents of the `dist` directory.
+
+## Custom Domain
+
+To connect a custom domain, refer to your hosting provider's documentation for domain setup and configuration.
