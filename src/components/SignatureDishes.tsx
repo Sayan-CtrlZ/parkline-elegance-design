@@ -7,7 +7,7 @@ import dish4 from "@/assets/dish-4.jpg";
 
 const dishes = [
   { name: "Pan-Seared Salmon", desc: "With herb butter, edible flowers & citrus reduction", image: dish1 },
-  { name: "Beef Tenderloin", desc: "Slow-roasted with truffle jus & seasonal vegetables", image: dish2 },
+  { name: "Paneer Tikka Masala", desc: "Char-grilled cottage cheese in a rich spiced tomato gravy", image: dish2 },
   { name: "Chocolate Fondant", desc: "Rich molten core with gold leaf & cocoa dust", image: dish3 },
   { name: "Royal Prawn Curry", desc: "Tiger prawns in a fragrant spiced coconut broth", image: dish4 },
 ];
