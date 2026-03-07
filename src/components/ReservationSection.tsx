@@ -11,7 +11,7 @@ const ReservationSection = () => {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    const whatsappMsg = `Hi, I'd like to reserve a table at The Parkline Classic.\nName: ${formData.name}\nDate: ${formData.date}\nTime: ${formData.time}\nGuests: ${formData.guests}`;
+    const whatsappMsg = `Hi, I'd like to reserve a table at Plazzo Cafe.\nName: ${formData.name}\nDate: ${formData.date}\nTime: ${formData.time}\nGuests: ${formData.guests}`;
     window.open(`https://wa.me/911234567890?text=${encodeURIComponent(whatsappMsg)}`, "_blank");
   };
 

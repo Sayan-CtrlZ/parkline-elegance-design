@@ -8,7 +8,7 @@ const HeroSection = () => {
       <div className="absolute inset-0">
         <img
           src={heroBg}
-          alt="The Parkline Classic fine dining interior"
+          alt="Plazzo Cafe fine dining interior"
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0 bg-gradient-to-b from-background/70 via-background/40 to-background" />
@@ -31,7 +31,7 @@ const HeroSection = () => {
           transition={{ duration: 0.8, delay: 0.5 }}
           className="font-serif text-5xl md:text-7xl lg:text-8xl font-bold text-foreground tracking-[0.05em] leading-tight"
         >
-          THE PARKLINE
+          PLAZZO CAFE
           <br />
           <span className="gold-text-gradient">CLASSIC</span>
         </motion.h1>

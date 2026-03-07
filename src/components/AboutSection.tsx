@@ -22,7 +22,7 @@ const AboutSection = () => {
           </h2>
           <div className="divider-gold mb-8" />
           <p className="text-muted-foreground leading-relaxed mb-6">
-            Nestled in the heart of Agartala, The Parkline Classic is more than a restaurant — 
+            Nestled in the heart of Agartala, Plazzo Cafe is more than a restaurant — 
             it's a sanctuary for those who appreciate the finer things. Our chefs craft each dish 
             with passion, blending traditional flavours with contemporary artistry.
           </p>
@@ -41,7 +41,7 @@ const AboutSection = () => {
         >
           <img
             src={interior1}
-            alt="The Parkline Classic interior dining room"
+            alt="Plazzo Cafe interior dining room"
             className="w-full aspect-[4/5] object-cover"
           />
           <div className="absolute -bottom-6 -left-6 w-32 h-32 border border-primary/30" />

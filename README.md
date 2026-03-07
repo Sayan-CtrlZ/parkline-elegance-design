@@ -1,9 +1,10 @@
 
-# Parkline Elegance Design
+
+# Plazzo Cafe Design
 
 ## Project Overview
 
-Parkline Elegance Design is a modern web application designed to showcase the unique features, experiences, and signature offerings of Parkline Elegance. The project provides an engaging and responsive user interface for visitors to explore information about the venue, view signature dishes, make reservations, and read testimonials. The application is built with a focus on performance, accessibility, and a seamless user experience.
+Plazzo Cafe Design is a modern web application designed to showcase the unique features, experiences, and signature offerings of Plazzo Cafe. The project provides an engaging and responsive user interface for visitors to explore information about the venue, view signature dishes, make reservations, and read testimonials. The application is built with a focus on performance, accessibility, and a seamless user experience.
 
 ## Features
 

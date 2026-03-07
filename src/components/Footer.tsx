@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto px-6 md:px-12 py-16">
         <div className="grid sm:grid-cols-3 gap-12">
           <div>
-            <h3 className="font-serif text-2xl text-foreground mb-4">The Parkline Classic</h3>
+            <h3 className="font-serif text-2xl text-foreground mb-4">Plazzo Cafe</h3>
             <p className="text-muted-foreground text-sm leading-relaxed">
               Where Taste Meets Elegance. A premium multi-cuisine restaurant in the heart of Agartala.
             </p>
@@ -46,7 +46,7 @@ const Footer = () => {
 
         <div className="border-t border-border mt-12 pt-8 text-center">
           <p className="text-xs text-muted-foreground tracking-wide">
-            © 2026 The Parkline Classic. All rights reserved.
+            © 2026 Plazzo Cafe. All rights reserved.
           </p>
         </div>
       </div>
